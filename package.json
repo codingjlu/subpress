@@ -1,0 +1,23 @@
+{
+  "name": "subpress",
+  "version": "1.0.0",
+  "description": "Static and dynamic subdomains for Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "keywords": [
+    "express",
+    "subdomain",
+    "server",
+    "http",
+    "dynamic"
+  ],
+  "author": "codingjlu",
+  "license": "MIT",
+  "repository": "https://github.com/codingjlu/subpress",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
